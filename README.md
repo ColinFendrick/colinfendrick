@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 ![Endless jumping donsaur](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+- 🔭 I’m currently working on Interpreta's React App
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on C++ with noSql stuff
+- 💬 Ask me about work/life balance
+- 📫 How to reach me: colin.fendrick@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a vegetarian
 [![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinfendrick)](https://github.com/colinfendrick/github-readme-stats)
 
 <!--

@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Endless jumping donsaur](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 [![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinfendrick)](https://github.com/colinfendrick/github-readme-stats)
 
 <!--

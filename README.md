@@ -8,6 +8,8 @@
 - 📫 How to reach me: colin.fendrick@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a vegetarian
+
+
 [![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinfendrick)](https://github.com/colinfendrick/github-readme-stats)
 
 <!--
